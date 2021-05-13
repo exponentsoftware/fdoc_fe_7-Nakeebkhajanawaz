@@ -37,6 +37,7 @@ export class AddAlbum extends Component {
     render() {
         const { album_title, artist, album_cover} = this.state
         return (
+            //hear all ditails are passing
             <div>
                 
                 <form onSubmit = {this.handleSubmit}>
