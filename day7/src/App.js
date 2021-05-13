@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import AddAlbum from './components/addAlbum'
-// import Album from './components/album'
+// import Album from './components/album';
 import Albums from './components/albums';
 import './App.css';
 
