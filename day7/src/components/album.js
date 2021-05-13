@@ -28,5 +28,5 @@ export class Album extends Component {
         )
     }
 }
-//export the album
+//export the album 
 export default Album
