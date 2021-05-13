@@ -25,7 +25,7 @@ export class AddAlbum extends Component {
     handleSubmit = (e, props) => {
         let obj = {};
         this.props.receiveFunc()
-        // obj.id = this.state.id;
+        // obj.id = this.state.id; 
         obj.id = this.state.album_cover + 1;
         obj.album_title = this.props.receiveFunc;
         obj.artist = this.state.artist;
