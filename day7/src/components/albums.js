@@ -22,9 +22,7 @@ export class Albums extends Component {
                     </ul>)
             })}
 
-                {/* <Album artist= "Vijay T" album_title= "Master" album_cover= "Music Anirudh R" songs= "Sound Track1"/>
-                <Album artist= "Naveen Polishetty" album_title= "Jathirathnalu" album_cover="Music Radhan" songs= "Sound Track2"/>
-                <Album artist= "Suriya" album_title= "Aakasam Nee Haddura" album_cover= "Music G. V. Prakash" songs= "Sound Track3"/> */}
+                
             </div>
         )
     }
